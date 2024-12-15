@@ -14,7 +14,6 @@ Welcome to my personal portfolio website. This website showcases my skills, proj
 - **Responsive Design**: The website is fully responsive, ensuring a seamless experience across all devices.
 - **Smooth Animations**: Leveraging Framer Motion for interactive animations that enhance the user experience.
 - **Content Management**: Powered by MDX to easily manage content with markdown and custom React components.
-- **Dark Mode Support**: Switch between dark and light themes to suit your preferences.
 - **Project Showcase**: View a selection of projects with detailed descriptions, technologies used, and links to live demos or GitHub repositories.
 
 
