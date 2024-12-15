@@ -7,7 +7,7 @@ import sidefolioportfolio2 from "public/images/portfolio2.png";
 
 export const products = [
   {
-    href: "https://lingo-gamma-rust.vercel.app/",
+    href: "https://language-learning-platform-pi.vercel.app/",
     title: "Lingo",
     description: "A fun, accessible platform for learning languages.",
     thumbnail: sidefolioLingo2,
